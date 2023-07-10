@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2014</folder>
+	<filename>DSC05205.jpg</filename>
+	<path>F:\&#22788;&#29702;&#30149;&#23475;&#25968;&#25454;&#38598;\images\train2014\DSC05205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1824</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuo_low</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>688</xmin>
+			<ymin>927</ymin>
+			<xmax>1117</xmax>
+			<ymax>1893</ymax>
+		</bndbox>
+	</object>
+</annotation>

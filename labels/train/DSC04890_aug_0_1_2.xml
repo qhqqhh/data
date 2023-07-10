@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2014</folder>
+	<filename>DSC04890.jpg</filename>
+	<path>F:\&#22788;&#29702;&#30149;&#23475;&#25968;&#25454;&#38598;\images\train2014\DSC04890.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuo_high</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1203</xmin>
+			<ymin>1111</ymin>
+			<xmax>4182</xmax>
+			<ymax>2191</ymax>
+		</bndbox>
+	</object>
+</annotation>

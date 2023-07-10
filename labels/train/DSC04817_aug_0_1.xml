@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DSC04817.jpg</filename>
+	<path>E:\dataset\images\train\DSC04817.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>5472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuo_high</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>722</ymin>
+			<xmax>1656</xmax>
+			<ymax>2706</ymax>
+		</bndbox>
+	</object>
+</annotation>

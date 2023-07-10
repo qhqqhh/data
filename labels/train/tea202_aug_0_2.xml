@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2014</folder>
+	<filename>tea202.jpg</filename>
+	<path>F:\&#22788;&#29702;&#30149;&#23475;&#25968;&#25454;&#38598;\images\train2014\tea202.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuo_low</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>992</xmin>
+			<ymin>96</ymin>
+			<xmax>2816</xmax>
+			<ymax>3704</ymax>
+		</bndbox>
+	</object>
+</annotation>

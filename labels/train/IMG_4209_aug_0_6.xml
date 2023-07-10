@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2014</folder>
+	<filename>IMG_4209.jpg</filename>
+	<path>F:\&#22788;&#29702;&#30149;&#23475;&#25968;&#25454;&#38598;\images\train2014\IMG_4209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuo_low</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>659</ymin>
+			<xmax>2331</xmax>
+			<ymax>4025</ymax>
+		</bndbox>
+	</object>
+</annotation>
